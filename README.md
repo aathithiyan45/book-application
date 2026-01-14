@@ -64,7 +64,7 @@ Adjust names and values to match your code.
   cd client
   npm start
 
-If you use a root-level script with concurrently:
+If you use a root-level script with concurrently: 
   npm run dev
 
 The frontend usually runs at http://localhost:3000 and the backend at http://localhost:5000. Update ports to match your config.
