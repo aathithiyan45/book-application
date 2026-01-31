@@ -3,7 +3,7 @@
 Full-Stack 
 
 ## About This Project
-A full-stack Book Management App where users can browse, add, update, and delete books. React powers the frontend UI, Node.js + Express handle backend APIs, and MongoDB manages data.
+A full-stack Book Management App where users can browse, add, update, and delete books. React powers the frontend UI, Node.js + Express handle backend APIs, and MongoDB manages data.  
 
 ## Technologies Used
 - React
